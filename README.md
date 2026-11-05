@@ -35,4 +35,4 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 📂 [Multi-Class AI Text Attribution](https://github.com/LostPigYoo/Multi-Class-AI-Text-Attribution-with-Explainable-Localization-via-Fine-Tuned-Pre-trained-Model) | Research project (CMU) on explainable AI text detection. Developed a balanced 24k+ dataset & data cleaning pipeline. | Python, DeBERTa |
-| 🤖 [Scorpio Autonomous Rover]() | Assembled an autonomous rover & performed radar environment mapping for a navigation competition. | ROS, Linux |
+| 🤖 Scorpio Autonomous Rover | Assembled an autonomous rover & performed radar environment mapping for a navigation competition. | ROS, Linux |
